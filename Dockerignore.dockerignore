@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.git/
+.gitignore
+*.log
+# Add any large files or directories you don't need in the container, e.g.:
+data/resale_transactions_categorised.csv  # If it's huge and you want to mount it at runtime instead

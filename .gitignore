@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.log
+data/resale_transactions_categorised.csv  # Exclude large data file
+.ipynb_checkpoints/
+*.ipynb_checkpoints
